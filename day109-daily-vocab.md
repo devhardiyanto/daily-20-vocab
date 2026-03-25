@@ -1,0 +1,24 @@
+# Day 109: Daily Vocabulary
+
+| Word | Definition | Examples |
+|---|---|---|
+| **Aberration** | A state or condition markedly different from the norm. | 1. The single-digit temperature in May was an aberration. 2. For him, such a low grade on an exam was an aberration. 3. The discovery of the new planet was a welcome aberration in the field of astronomy. |
+| **Abhor** | To feel hatred or disgust toward. | 1. I abhor all forms of racism. 2. She abhors the taste of licorice. 3. He abhors the idea of violence. |
+| **Acquiesce** | To agree or express agreement. | 1. While I did not want to go to the show, I acquiesced to my friends. 2. The committee will acquiesce in any decision the prime minister makes. 3. She was unwilling to acquiesce to their demands. |
+| **Alacrity** | Liveliness and eagerness. | 1. The boy jumped up and down with alacrity as he inched closer to the candy store. 2. She accepted the invitation with alacrity. 3. He approached the task with surprising alacrity. |
+| **Amiable** | Diffusing warmth and friendliness. | 1. I love going to my uncle’s house because he is so amiable. 2. She had an amiable personality, always ready with a kind word and a smile. 3. The amiable bartender was a favorite among the locals. |
+| **Appease** | To pacify by acceding to demands. | 1. The mother appeased her child with a lollipop. 2. He tried to appease his angry girlfriend with a bouquet of flowers. 3. The government made concessions to appease the protesters. |
+| **Arcane** | Requiring secret or mysterious knowledge. | 1. The arcane rules of the game were difficult to understand. 2. He was the only one who understood the arcane details of the ancient manuscript. 3. The professor's lecture was full of arcane references. |
+| **Avarice** | Extreme greed for wealth or material gain. | 1. The corporate world is full of avarice and greed. 2. His avarice led him to make some unethical business decisions. 3. The story is a cautionary tale about the dangers of avarice. |
+| **Banal** | Repeated too often; overfamiliar through overuse. | 1. The plot of the movie was so banal that I knew exactly how it would end. 2. He made some banal remarks about the weather. 3. I was bored to death by his banal conversation. |
+| **Benevolent** | Well-meaning and kindly. | 1. The benevolent gentleman left a generous tip for the waitress. 2. A benevolent smile never left her face. 3. The company has a benevolent policy of giving to charity. |
+| **Cajole** | To persuade someone to do something by sustained coaxing or flattery. | 1. He cajoled his friends into helping him move. 2. She cajoled her father into buying her a new car. 3. The salesman tried to cajole me into buying the more expensive model. |
+| **Callous** | Emotionally hardened. | 1. The callous man laughed at the child’s tears. 2. He showed a callous disregard for the feelings of others. 3. Her callous comments hurt him deeply. |
+| **Candor** | The quality of being honest and straightforward. | 1. I appreciate your candor, even though it’s hard to hear. 2. She spoke with candor about her struggles with addiction. 3. He was known for his candor and integrity. |
+| **Chide** | To scold or rebuke. | 1. The mother chided her child for playing in the street. 2. The teacher chided the student for not doing his homework. 3. He chided himself for his foolish mistake. |
+| **Circumspect** | Wary and unwilling to take risks. | 1. The diplomat was circumspect in his dealings with the foreign government. 2. You should be circumspect about giving out personal information online. 3. He is a circumspect driver who has never had an accident. |
+| **Clandestine** | Kept secret or done secretively, especially because illicit. | 1. The two lovers had a clandestine meeting in the park. 2. The spy was involved in a clandestine operation. 3. They held a clandestine meeting to plan the protest. |
+| **Coerce** | To persuade (an unwilling person) to do something by using force or threats. | 1. The bully coerced the smaller child into giving him his lunch money. 2. He was coerced into signing the confession. 3. The government was accused of coercing people into voting for them. |
+| **Complacent** | Showing smug or uncritical satisfaction with oneself or one's achievements. | 1. The team became complacent after their easy victory. 2. There is no room for complacency in the fight against climate change. 3. He had a complacent smile on his face. |
+| **Conundrum** | A confusing and difficult problem or question. | 1. The philosopher pondered the conundrum of existence. 2. The politician was faced with a conundrum: raise taxes or cut spending. 3. The detective was baffled by the conundrum of the locked-room mystery. |
+| **Debacle** | A sudden and ignominious failure; a fiasco. | 1. The play’s opening night was a complete debacle. 2. The company’s new product was a marketing debacle. 3. The government’s handling of the crisis was a debacle. |
